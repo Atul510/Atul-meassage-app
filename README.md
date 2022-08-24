@@ -3,8 +3,7 @@ Real-time Chat App using Javasript and socket.io
 ![Login Page](https://user-images.githubusercontent.com/62300368/177407290-89ec0f5a-2c97-454f-b1de-fa29435f2185.jpg)
 ![Chat Window](https://user-images.githubusercontent.com/62300368/177408259-67f98b70-ed32-4ae5-ac95-afb8faf83470.jpg)
 
-#heroku link
-Link: https://floating-tundra-61987.herokuapp.com/
+
 
 #Features
 1. Uses Express as the application Framework.
